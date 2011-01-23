@@ -14,7 +14,7 @@ all.cumulants(mu.raw)
                  row vector mu.raw[1,] contains the order 1 raw moments and so forth. }
 }
 \details{
-  ~~ If necessary, more details than the description above ~~
+  No details are currently described.
 }
 \value{
   A vector matrix or data frame of cumulants.  For matrices and data frame, column vectors
