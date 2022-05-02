@@ -1,7 +1,7 @@
 Package: moments
 Type: Package
-Title: Moments, cumulants, skewness, kurtosis and related tests
-Version: 0.14
+Title: Moments, Cumulants, Skewness, Kurtosis and Related Tests
+Version: 0.14.1
 Date: 2015-01-05
 Author: Lukasz Komsta <lukasz.komsta@umlub.pl>, Frederick Novomestky
         <fnovomes@poly.edu>
@@ -10,8 +10,8 @@ Description: Functions to calculate: moments, Pearson's kurtosis,
         Geary's kurtosis and skewness; tests related to them
         (Anscombe-Glynn, D'Agostino, Bonett-Seier).
 License: GPL (>= 2)
-URL: http://www.r-project.org, http://www.komsta.net/
-Packaged: 2015-01-05 11:30:01 UTC; Administrator
+URL: https://www.r-project.org, http://www.komsta.net/
+Packaged: 2022-05-02 10:08:08 UTC; hornik
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2015-01-05 12:58:47
+Date/Publication: 2022-05-02 13:01:55 UTC

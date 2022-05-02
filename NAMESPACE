@@ -10,3 +10,4 @@ export( "agostino.test",
         "moment",
         "raw2central",
         "skewness" )
+importFrom("stats", "complete.cases", "pchisq", "pnorm")
